@@ -1,0 +1,10 @@
+[project]
+name = "acme4-eda"
+version = "0.1.0"
+description = "Exploratory analysis on the ACME4 dataset"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab",
+    "uvk",
+]
